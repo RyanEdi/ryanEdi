@@ -1,4 +1,18 @@
-## Opaaaa beleza!! Eu sou o Ryan Edi! 👋
+# Olá, eu sou o Ryan Edicleuber! 👋
+
+Sou graduando em Engenharia de Software pela Estácio e atuo na intersecção entre a estratégia, governança e a execução tecnológica. Como Assessor Técnico na Diretoria de TIC do DETRAN-DF, utilizo minha experiência em processos públicos para projetar soluções eficientes. Também tenho forte bagagem em Data-Driven Marketing e performance de dados.
+
+Atualmente, foco minha evolução técnica no domínio de novas linguagens, arquitetura de software e desenvolvimento de sistemas robustos e escaláveis.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+*   **Languages & Frameworks:** JavaScript, TypeScript, Node.js, React, Next.js
+*   **Databases & ORM:** PostgreSQL, MySQL, Prisma ORM
+*   **DevOps & Tools:** Git, GitHub, Docker, BPMN (Gestão de Processos)
+*   **Data & Analytics:** Data-Driven Marketing, APIs de Conversão/Pixel (Meta, Google, TikTok)
+
 
 <picture>
   <source
